@@ -19,6 +19,8 @@ The primary objective is to develop an accurate predictive model using policyhol
   - Vehicle specifics: make and model, power, engine type, max torque, max power.
 - **Target Variable**: Indicates whether a policyholder will file a claim (Yes/No).
 - **Split Ratio**: 60% training and 40% testing.
+- ![image](https://github.com/user-attachments/assets/8948f470-1d8d-4598-ac40-a32564c3026a)
+
 
 ---
 
