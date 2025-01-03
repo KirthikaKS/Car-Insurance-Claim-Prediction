@@ -12,19 +12,22 @@ The primary objective is to develop an accurate predictive model using policyhol
 
 ## Data Overview
 - **Source**: [Kaggle](https://www.kaggle.com/)
-- **Dataset**: Contains 97,656 instances and 44 attributes.
+- **Dataset**: Contains 97,656 instances and 43 attributes.
 - **Attributes**:
   - Policyholder details: policy tenure, age of the car, car owner age.
   - Environmental factors: population density of the city.
   - Vehicle specifics: make and model, power, engine type, max torque, max power.
-- **Target Variable**: Indicates whether a policyholder will file a claim (Yes/No).
-- **Split Ratio**: 60% training and 40% testing.
+- **Target Variable**: Indicates whether a policyholder will file a claim (Yes/No) - 'is_claim’
+- **Split Ratio**: 60% training and 40% testing. This is a classification problem, and we have used four different algorithms - Logistic Regression, 
+Decision Trees, Random Forests, and Neural Networks - to predict the loan status
 - ![image](https://github.com/user-attachments/assets/8948f470-1d8d-4598-ac40-a32564c3026a)
 
 
 ---
 
-## Data Preprocessing
+## Exploratory Data Analysis
+- ![image](https://github.com/user-attachments/assets/cd33340e-7e31-4930-8fe8-20a85a86d286)
+
 ### Steps Taken:
 1. **Handling Missing Values**:
    - Identified and managed null values in the dataset.
