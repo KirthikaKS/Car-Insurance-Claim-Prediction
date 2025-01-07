@@ -1,7 +1,7 @@
 **CAR INSURANCE CLAIM PREDICTION**
 ===
 This repository contains the implementation and analysis of the "Car Insurance Claim Prediction". The project utilizes various machine learning models to predict whether a policyholder will file a car insurance claim within six months.
-===
+___
 **BUSINESS SCNARIO**
 
 The insurance industry is undergoing rapid transformation through data analytics and predictive modeling. Car insurance companies strive to refine their risk assessment and pricing strategies by predicting the likelihood of claims being filed by policyholders. By leveraging a comprehensive dataset, this project aims to empower insurance providers with predictive insights, enabling proactive risk management and enhanced operational efficiency.
