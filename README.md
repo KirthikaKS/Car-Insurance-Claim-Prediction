@@ -1,6 +1,9 @@
 **CAR INSURANCE CLAIM PREDICTION**
 ===
 This repository contains the implementation and analysis of the "Car Insurance Claim Prediction". The project utilizes various machine learning models to predict whether a policyholder will file a car insurance claim within six months.
+
+![car_ins](https://github.com/user-attachments/assets/bf4f1c88-0a0e-4331-af6f-673d9db62121)
+
 ___
 
 **BUSINESS SCNARIO**
